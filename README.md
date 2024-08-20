@@ -1,5 +1,4 @@
 # Job Market Analysis: Data Analytics in New York City
-## By Minh Nguyet Nguyen (Selene)
 This project aims to analyze the job market for Data Analytics positions in New York by scraping job postings from Indeed.com. The goal is to gain insights into which companies are hiring the most, the distribution of job titles and salaries, and the skills most in demand. This analysis can be valuable for job seekers, employers, or anyone interested in the current state of the job market in the Data Analytics field.
 
 ## Project Structure
